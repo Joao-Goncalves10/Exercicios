@@ -1,0 +1,30 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hero{
+    background-color: #076340;
+    color:aliceblue;
+    text-align: center;
+}
+
+.card-noticia > h2 {
+    color: #1c7c47
+}
+
+.card-noticia > img {
+    max-width: 100%;
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+nav > a {
+    text-align: center;
+    color: #bfe2d0;
+    
+}
+
+nav :hover {
+    color:rgb(44, 152, 96)
+}
